@@ -1,5 +1,5 @@
 # Trashbin
 
-Edit kayo sa index2.html
+Editing on index2.html
 
-eto directory: gentellela-master > production > index2.html
+Directory: gentellela-master > production > index2.html
